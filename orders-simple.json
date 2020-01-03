@@ -1,0 +1,46 @@
+{
+"_id" : "5d93cea2e6deab2507869984",
+"customerId" : "5d923c5f681a575f45a18f37",
+"productType":"package",
+"purchaseDate":"Tue Oct 01 2019 22:09:38 GMT+0000 (Coordinated Universal Time)",
+"cost":"99.00",
+"tax":"8.51",
+"total":"107.51",
+"status":"pending",
+"purchased":[
+    {
+        "offers":[
+            {
+                "status":"approved",
+                "locationYPos":"-112.1077089",
+                "locationXPos":"33.6675738",
+                "packageDiscount":40,
+                "packageCost":45,
+                "merchantName":"Store",
+                "merchantId":"5d923d6a681a575f45a18f39",
+                "name":"Cloudy Grey Pants",
+                "id":"5d925f5e681a575f45a18f3e"
+            },
+            {
+                "status":"approved",
+                "locationYPos":"-112.1077089",
+                "locationXPos":"33.6675738",
+                "packageDiscount":59,
+                "packageCost":60,
+                "merchantName":"Store",
+                "merchantId":"5d923d6a681a575f45a18f39",
+                "name":"Nikes",
+                "id":"5d9292a1e6deab250786997b"
+            }                
+
+        ],
+        "approved":true,
+        "discount":99,
+        "shortDescription":"Test pkg",
+        "companyId":"5d923d6a681a575f45a18f38",
+        "merchantId":"5d923d6a681a575f45a18f39",
+        "name":"Combo",
+        "ids":"5d937db9e6deab250786997d"
+    }
+]
+}
